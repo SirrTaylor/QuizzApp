@@ -1,0 +1,14 @@
+C:\Users\btgob\source\repos\QuizApp\bin\Debug\net8.0\QuizApp.exe
+C:\Users\btgob\source\repos\QuizApp\bin\Debug\net8.0\QuizApp.deps.json
+C:\Users\btgob\source\repos\QuizApp\bin\Debug\net8.0\QuizApp.runtimeconfig.json
+C:\Users\btgob\source\repos\QuizApp\bin\Debug\net8.0\QuizApp.dll
+C:\Users\btgob\source\repos\QuizApp\bin\Debug\net8.0\QuizApp.pdb
+C:\Users\btgob\source\repos\QuizApp\obj\Debug\net8.0\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btgob\source\repos\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfoInputs.cache
+C:\Users\btgob\source\repos\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfo.cs
+C:\Users\btgob\source\repos\QuizApp\obj\Debug\net8.0\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\btgob\source\repos\QuizApp\obj\Debug\net8.0\QuizApp.dll
+C:\Users\btgob\source\repos\QuizApp\obj\Debug\net8.0\refint\QuizApp.dll
+C:\Users\btgob\source\repos\QuizApp\obj\Debug\net8.0\QuizApp.pdb
+C:\Users\btgob\source\repos\QuizApp\obj\Debug\net8.0\QuizApp.genruntimeconfig.cache
+C:\Users\btgob\source\repos\QuizApp\obj\Debug\net8.0\ref\QuizApp.dll
